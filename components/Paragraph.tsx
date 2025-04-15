@@ -1,7 +1,6 @@
 "use client"
 
 import { motion } from 'motion/react';
-import { title } from 'process';
 import React from 'react'
 
 type paragraphparams = {

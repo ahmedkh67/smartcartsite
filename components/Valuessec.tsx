@@ -2,13 +2,11 @@
 
 import React from 'react'
 import Value from './Value'
-import Logo from '@/public/smartcartlogo.svg'
 import global from '@/public/plant.svg' 
 import quality from '@/public/QualityIcon.svg'
 import test from '@/public/TestIcon.svg'
 import person from '@/public/Person.svg'
 import world from '@/public/globe.svg'
-import { motion } from 'motion/react'
 
 function Valuessec () {
   return (

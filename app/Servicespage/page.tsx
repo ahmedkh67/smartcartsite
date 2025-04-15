@@ -1,6 +1,5 @@
 import { Numsec, ServiceCard, Value } from '@/components'
 import React from 'react'
-import Logo from '@/public/smartcartlogo.svg'
 
 
 

@@ -1,6 +1,4 @@
-import { Value } from '@/components'
 import React from 'react'
-import Logo from '@/public/smartcartlogo.svg'
 import Image from 'next/image'
 import Email from '@/public/gmail.svg'
 import Location from '@/public/location.svg'
