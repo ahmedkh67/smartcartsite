@@ -5,7 +5,7 @@ import Link from 'next/link'
 type ServiceCardparams = {
     title: string, 
     dis: string , 
-    linko: string | any
+    linko: string
 }
 
 

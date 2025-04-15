@@ -4,7 +4,7 @@ import Image from 'next/image'
 type Valueparams = {
     title: string, 
     dis: string , 
-    src: string | any 
+    src: string
 }
 
 function Value({title, dis, src}: Valueparams ) {

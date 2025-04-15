@@ -1,4 +1,4 @@
-import { Numsec, ServiceCard, Value } from '@/components'
+import { Numsec, ServiceCard } from '@/components'
 import React from 'react'
 
 
