@@ -2,6 +2,7 @@
 
 import { easeInOut } from 'motion'
 import { motion } from 'motion/react'
+import Link from 'next/link'
 import React from 'react'
 
 const Herosec = () => {
@@ -15,10 +16,11 @@ const Herosec = () => {
             <h1 className='md:text-lg text-lg font-sans font-bold text-center text-white md:my-12 my-8  w-1/2'>
             العربة الذكية للترفيه , ابتكار يلتقي بالمرح والامان  
             </h1>
-            <button className='px-8 py-3 bg-[#005053] rounded-4xl md:text-lg text-md font-sans font-bold text-center text-white md:m-0 mb-14 transition-[0.3s] hover:opacity-80 cursor-pointer ' >
-                استعراض بروفايل المؤسسة
-
-            </button>
+            <Link href={'/public/Person.svg'} download>
+                <button className='px-8 py-3 bg-[#005053] rounded-4xl md:text-lg text-md font-sans font-bold text-center text-white md:m-0 mb-14 transition-[0.3s] hover:opacity-80 cursor-pointer ' >
+                    استعراض بروفايل المؤسسة
+                </button>
+            </Link>
         </motion.div>
 </>
   )

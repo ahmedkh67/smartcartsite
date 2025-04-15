@@ -2,6 +2,7 @@ import Link from 'next/link'
 import React from 'react'
 import Image from 'next/image'
 import insta from '@/public/insta copy.svg'
+import Email from '@/public/gmail copy.svg'
 
 const Footer = () => {
   return (<>
@@ -18,10 +19,14 @@ const Footer = () => {
             </h1>
             <div className="flex justify-end items-center mt-3">
                 <div className="flex w-8 h-8 m-0.5 rounded-full border-1 border-[#005053] border-solid justify-center items-center ">
-                    <Image src={insta} width={24} height={20} alt={'social icon media'} />
+                    <Link href={ "https://www.instagram.com/smartcart2020?igsh=bnZ3NnF2MTF0eTcx" } >
+                        <Image src={insta} width={24} height={20} alt={'social icon media'} />
+                    </Link>
                 </div>
                 <div className="flex w-8 h-8 m-0.5 rounded-full border-1 border-[#005053] border-solid justify-center items-center ">
-                    <Image src={insta} width={24} height={20} alt={'social icon media'} />
+                    <Link href={"mailto:ALHARBAI_10@hotmail.com"} >
+                        <Image src={Email} width={24} height={20} alt={'social icon media'} />
+                    </Link>
                 </div>
             </div>
         </div>
