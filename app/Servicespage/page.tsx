@@ -22,8 +22,8 @@ const page = () => {
 
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 pt-10 ">       
     <ServiceCard title={' قطارات الاطفال الترفيهية '} dis={'قطارات ترفيهية مصممة للاطفال'} linko={"/Trainservice"} src={'trainimg2'} />
-    <ServiceCard title={' عربات الدفع اليدوي'} dis={' عربات دفع مريحة و عملية '} linko={"/CartService"} src={'carto'} />
-    <ServiceCard title={' العربات الكهربائية '} dis={' عربات كهربائية امنة تحاكي الواقع '} linko={"/ElectriccartService"} src={'elctrcar1'} />
+    <ServiceCard title={' عربات الدفع اليدوي'} dis={' عربات دفع مريحة و عملية '} linko={"/CartService"} src={'cart8'} />
+    <ServiceCard title={' العربات الكهربائية '} dis={' عربات كهربائية امنة تحاكي الواقع '} linko={"/ElectriccartService"} src={'elctrcar4'} />
     </div>
 
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 ">       
