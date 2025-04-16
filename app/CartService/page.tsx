@@ -16,7 +16,7 @@ const page = () => {
             </div>
     
     
-            <div className="flex bg-[#005053] pt-10 px-5 md:px-10  flex-col items-center justify-center">
+            <div className="flex bg-[#f6ac00] pt-10 px-5 md:px-10  flex-col items-center justify-center">
                 <div className="flex justify-center items-center ">
                     <Paragraph title='' dis=' عربات دفع مريحة و عملية مصممة للأهالي لنقل اطفالهم بسهولة و امان داخل المولات , بتصاميم متميزة تضيف لمسة جمالية للمكان ' />
     

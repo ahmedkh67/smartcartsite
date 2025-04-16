@@ -16,7 +16,7 @@ const page = () => {
         </div>
 
 
-        <div className="flex bg-[#005053] pt-10 px-5 md:px-10  flex-col items-center justify-center">
+        <div className="flex bg-[#f6ac00] pt-10 px-5 md:px-10  flex-col items-center justify-center">
             <div className="flex justify-center items-center ">
                 <Paragraph title='' dis=' نوفر قطارات ترفيهية مصممة خصيصا للاطفال داخل المولات و المناطق الترفيهية , تتميز هذه القطارات بتصاميم امنة و عصرية تضمن تجربة ممتعة و مثيرة للاطفال , مع الالتزام بمعايير السلامة ' />
 

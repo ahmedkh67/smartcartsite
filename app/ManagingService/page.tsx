@@ -16,7 +16,7 @@ const page = () => {
         </div>
 
 
-        <div className="flex bg-[#005053] pt-10 px-5 md:px-10  flex-col items-center justify-center">
+        <div className="flex bg-[#f6ac00] pt-10 px-5 md:px-10  flex-col items-center justify-center">
             <div className="flex justify-center items-center ">
                 <Paragraph title='' dis=' نقدم خدمات متكاملة في تصميم و ادارة و تشغيل المراكز الترفيهية , بما يشمل مناطق الالعاب , و انشطة الترفيه لضمان تجربة متميزة و امنة للزوار ' />
 

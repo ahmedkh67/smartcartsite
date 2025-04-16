@@ -16,7 +16,7 @@ const page = () => {
         </div>
 
 
-        <div className="flex bg-[#005053] pt-10 px-5 md:px-10  flex-col items-center justify-center">
+        <div className="flex bg-[#f6ac00] pt-10 px-5 md:px-10  flex-col items-center justify-center">
             <div className="flex justify-center items-center ">
                 <Paragraph title='' dis=' عربات كهربائية امنة تحاكي تصاميم السيارات الحقيقة , تتميز بوسائل امان مثل احزمة الامان , والتحكم عن بعد لتوفير تجربة ممتعة و تعليمية للأطفال ' />
 
