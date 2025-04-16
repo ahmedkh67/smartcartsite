@@ -23,7 +23,7 @@ const Numsec = () => {
 
         <div className="flex justify-center items-center flex-col my-9">
             <h1 className='text-6xl font-boldd font-sans text-[#005053] text-center'>
-                7 +
+                9 +
             </h1>
             <p className='text-2xl font-bold font-sans text-[#484848] text-center my-5'>
                 سنوات خبرة

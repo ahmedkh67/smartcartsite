@@ -173,6 +173,109 @@ body {
 
 
 
+  .elctrcar1 {
+    background-image: url("/elctrcar1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+  .elctrcar2 {
+    background-image: url("/elctrcar2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+
+  .cart1 {
+    background-image: url("/cart1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+  .cart2 {
+    background-image: url("/cart2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+  .cart3 {
+    background-image: url("/cart3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+  .carto {
+    background-image: url("/cart1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+  }
+
+
+  .manag1 {
+    background-image: url("/manag1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+  .manag2 {
+    background-image: url("/manag2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .manag3 {
+    background-image: url("/manag3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .manag4 {
+    background-image: url("/manag4.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .manag5 {
+    background-image: url("/manag5.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+
+
+  .bg1 {
+    background-image: url("/smartcartpng.webp");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
 
 
 

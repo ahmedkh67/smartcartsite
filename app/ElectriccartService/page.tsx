@@ -30,22 +30,15 @@ const page = () => {
         </div>
 
         <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 pt-10 flex-wrap">       
-            <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg1 "> 
+            <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end elctrcar1 "> 
 
                 
             </div>
-            <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg2"> 
-
-                
-            </div>
-            <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg3"> 
+            <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end elctrcar2"> 
 
                 
             </div>
             
-            <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg7"> 
-
-            </div>
             
         </div>
 
