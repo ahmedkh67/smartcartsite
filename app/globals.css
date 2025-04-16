@@ -102,14 +102,14 @@ body {
     border-left: 760px solid white;
     border-right: 760px solid white;
     
-    border-top: 150px solid #d48600;
+    border-top: 150px solid #f6ac00;
   }
 
   .whitetriangle { 
     width: 0; 
     height: 0px ; 
-    border-left: 760px solid #005053;
-    border-right: 760px solid #005053;;
+    border-left: 760px solid #f6ac00;
+    border-right: 760px solid #f6ac00;
     
     border-top: 200px solid #ffffff;
   }

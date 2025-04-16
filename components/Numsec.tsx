@@ -13,29 +13,29 @@ const Numsec = () => {
 
         
         <div className="flex justify-center items-center flex-col my-9">
-            <motion.pre initial={{translateY: 10}} whileInView={{translateY: 0}} className='text-4xl font-boldd font-sans text-[#d48600] text-center'>
+            <motion.pre initial={{translateY: 10}} whileInView={{translateY: 0}} className='text-4xl font-boldd font-sans text-[#005053] text-center'>
                 300 +
             </motion.pre>
-            <p className='text-xl font-bold font-sans text-[#005053] text-center my-5'>
+            <p className='text-xl font-bold font-sans text-[#484848] text-center my-5'>
                 فريق العمل
             </p>
         </div>
 
         <div className="flex justify-center items-center flex-col my-9">
-            <h1 className='text-6xl font-boldd font-sans text-[#d48600] text-center'>
+            <h1 className='text-6xl font-boldd font-sans text-[#005053] text-center'>
                 7 +
             </h1>
-            <p className='text-2xl font-bold font-sans text-[#005053] text-center my-5'>
+            <p className='text-2xl font-bold font-sans text-[#484848] text-center my-5'>
                 سنوات خبرة
             </p>
         </div>
 
 
         <div className="flex justify-center items-center flex-col my-9">
-            <h1 className='text-4xl font-boldd font-sans text-[#d48600] text-center'>
+            <h1 className='text-4xl font-boldd font-sans text-[#005053] text-center'>
                 3 +
             </h1>
-            <p className='text-xl font-bold font-sans text-[#005053] text-center my-5'>
+            <p className='text-xl font-bold font-sans text-[#484848] text-center my-5'>
                 فروع
             </p>
         </div>

@@ -14,7 +14,7 @@ const Footer = () => {
 
 
         <div className="flex flex-col w-full bg-white md:pt-0 pt-10">
-            <h1 className='text-2xl text-end font-bold font-sans text-[#d48600]'>
+            <h1 className='text-2xl text-end font-bold font-sans text-[#000000]'>
                 تابعنا
             </h1>
             <div className="flex justify-end items-center mt-3">
@@ -33,7 +33,7 @@ const Footer = () => {
 
 
         <div className="flex flex-col justify-start items-end w-full bg-white md:pt-0 pt-10">
-            <h1 className='text-2xl text-end font-bold font-sans text-[#d48600]'>
+            <h1 className='text-2xl text-end font-bold font-sans text-[#000000]'>
                 روابط سريعة
             </h1>
             <ul className='flex justify-end items-center'>
@@ -55,7 +55,7 @@ const Footer = () => {
 
 
         <div className="flex flex-col w-full bg-white justify-start items-end  md:pt-0 py-10">
-            <h1 className='text-md text-end font-sans w-3/4 text-[#d48600]'>
+            <h1 className='text-md text-end font-sans w-3/4 text-[#000000]'>
             Prince Muqrin Ibn Abdulaziz Rd.
             Madinah,
             Saudi Arabia
@@ -65,7 +65,7 @@ const Footer = () => {
             </h1>
         </div>
     </div>
-    <div className="flex w-full bg-[#d48600] p-4 justify-center items-center">
+    <div className="flex w-full bg-[#ffcc00] p-4 justify-center items-center">
         <h1 className='text-md text-center font-sans text-white'>
             . جميع الحقوق محفوظة لمؤسسة العربة الذكية للترفيه 
         </h1>

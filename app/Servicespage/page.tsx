@@ -6,7 +6,7 @@ import React from 'react'
 const page = () => {
   return (
     <>
-    <div className="flex flex-col justify-end items-center w-full h-[300px] bg-[#005053]">
+    <div className="flex flex-col justify-end items-center w-full h-[300px] bg-[#f6ac00]">
             <h1 className='text-3xl text-white font-bold font-sans text-center mb-10'>
                 تعرف على خدماتنا
             </h1>

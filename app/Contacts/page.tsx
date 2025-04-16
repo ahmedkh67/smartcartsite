@@ -29,7 +29,7 @@ const Page = () => {
         </div>
     </div>
 
-    <div className="flex md:flex-row flex-col-reverse bg-[#005053] w-full py-10 ">
+    <div className="flex md:flex-row flex-col-reverse bg-[#f6ac00 ] w-full py-10 ">
         <div className="flex w-full ">
             <form action="" method="post" className=' flex flex-col justify-start items-end p-4 w-full px-10 md:px-5 md:my-3 md:ml-30'>
 
@@ -107,7 +107,7 @@ const Page = () => {
                 </div>
                
                 <div className="flex h-110 flex-col p-4 w-full justify-end items-end md:w-full bg-yellow- px-10 md:px-15 md:pr-45 my-3 ">
-                    <select value={Address} onChange={handleChange} name='Nameeinput' id='Nameeinput'   className=' px-6 bg-white py-2 text-center text-cyan-900 md:m-0 mt-10 md:w-28 w-full font-sans  '>
+                    <select value={Address} onChange={handleChange} name='Nameeinput' id='Nameeinput'   className=' px-6 bg-white py-2 text-center text-cyan-900 md:mb-3 mb-3 mt-10 md:w-28 w-full font-sans '>
                                 <option value={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3627.663785866609!2d46.70025692518167!3d24.600796855599707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f05626d420177%3A0xfb6caaab1eac1310!2z2KfZhNmC2LXYsSDZhdmI2YQ!5e0!3m2!1sar!2ssa!4v1744529218364!5m2!1sar!2ssa"}
                         >  الرياض </option>
                         <option value={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.691190208601!2d39.59818042518501!3d24.496154459739444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15bdbeecafc81d35%3A0x34cbfdba1ea0415e!2sCenomi%20Al%20Noor%20Mall!5e0!3m2!1sar!2ssa!4v1744529034034!5m2!1sar!2ssa"}

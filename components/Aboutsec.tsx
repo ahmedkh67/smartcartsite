@@ -6,7 +6,7 @@ import { Paragraph } from '.'
 const Aboutsec = () => {
   return (
     <>
-    <div className="flex bg-[#d48600] pt-10 px-5 md:px-10  flex-col items-center justify-center">
+    <div className="flex bg-[#f6ac00] pt-10 px-5 md:px-10  flex-col items-center justify-center">
         <div className="flex justify-center items-center ">
             
             <Paragraph title=' من نحن؟ ' dis=' مؤسسة العربة الذكية للترفيه انطلقت في عام 2017 متخصصة في تقديم حلول ترفيهية مبتكرة تجمع بين الامان والمتعة للاطفال و العائلات , تأسست المؤسسة لتكون علامة فارقة في صناعة الترفيه , حيث تقدم باقة متنوعة من الخدمات تشمل قطارات الاطفال الترفيهية , عربات الدفع اليدوي للاطفال , العربات الكهربائية و بالاضافة الى المراكز الترفيهية ' />
