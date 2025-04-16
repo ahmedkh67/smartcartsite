@@ -21,15 +21,15 @@ const page = () => {
 
 
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 pt-10 ">       
-    <ServiceCard title={' قطارات الاطفال الترفيهية '} dis={'قطارات ترفيهية مصممة للاطفال'} linko={"/Trainservice"} src={'trainimg2'} />
-    <ServiceCard title={' عربات الدفع اليدوي'} dis={' عربات دفع مريحة و عملية '} linko={"/CartService"} src={'cart8'} />
-    <ServiceCard title={' العربات الكهربائية '} dis={' عربات كهربائية امنة تحاكي الواقع '} linko={"/ElectriccartService"} src={'elctrcar4'} />
+    <ServiceCard title={' قطارات الاطفال الترفيهية '} dis={'قطارات ترفيهية مصممة للاطفال'} linko={"/Trainservice"} src={'trainimg6'} />
+    <ServiceCard title={' عربات الدفع اليدوي'} dis={' عربات دفع مريحة و عملية '} linko={"/CartService"} src={'cart9'} />
+    <ServiceCard title={' العربات الكهربائية '} dis={' عربات كهربائية امنة تحاكي الواقع '} linko={"/ElectriccartService"} src={'elctrcar3'} />
     </div>
 
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 ">       
     
         <ServiceCard title={' ادارة المراكز الترفيهية '} dis={' خدمات متكاملة في تصميم و ادارة المراكز '} linko={"/ManagingService"} src={'manag5'} />
-        <ServiceCard title={' مبيعات البالون '} dis={' بلالين هيليوم مميزة بشخصيات محبوبة '} linko={"/BallonService"} src={'ballon2'} />
+        <ServiceCard title={' مبيعات البالون '} dis={' بلالين هيليوم مميزة بشخصيات محبوبة '} linko={"/BallonService"} src={'ballon1'} />
         
     </div>
       <div className="flex flex-col w-full justify-center items-center bg-white">

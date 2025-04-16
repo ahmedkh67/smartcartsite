@@ -156,11 +156,11 @@ body {
   }
 
   .trainimg6 {
-    background-image: url("/trainimg6.jpeg");
+    background-image: url("/trainimg6.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: white;
+    background-color: transparent;
   }
 
   .trainimg7 {
@@ -191,11 +191,11 @@ body {
 
 
   .elctrcar3 {
-    background-image: url("/elctrcar3.jpeg");
+    background-image: url("/elctrcar3.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: white;
+    background-color: transparent;
   }
 
 
@@ -284,16 +284,16 @@ body {
   }
 
   .cart9 {
-    background-image: url("/cart9.jpeg");
+    background-image: url("/cart9.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: white;
+    background-color: transparent;
   }
 
 
 
-  
+
   .carto {
     background-image: url("/cart1.jpeg");
     background-position: center;
@@ -349,11 +349,11 @@ body {
 
 
   .ballon1 {
-    background-image: url("/ballon1.jpeg");
+    background-image: url("/ballon1.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: white;
+    background-color: transparent;
   }
 
 
