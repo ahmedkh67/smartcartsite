@@ -16,7 +16,7 @@ const Herosec = () => {
             <h1 className='md:text-lg text-lg font-sans font-bold text-center text-white md:my-12 my-8  w-1/2'>
             العربة الذكية للترفيه , ابتكار يلتقي بالمرح والامان  
             </h1>
-            <Link href={'/public/profile.pdf'} download>
+            <Link href={'/profile.pdf'} target='_blank' rel='noopener npreferrer'>
                 <button className='px-8 py-3 bg-[#ffcc00] rounded-4xl md:text-lg text-md font-sans font-bold text-center text-white md:m-0 mb-14 transition-[0.3s] hover:opacity-80 cursor-pointer ' >
                     استعراض بروفايل المؤسسة
                 </button>
