@@ -1,5 +1,5 @@
 "use client "
-import { Aboutsec, Herosec, Numsec, Valuessec, Whatsicon } from "@/components";
+import { Aboutsec, Herosec, Numsec, Valuessec } from "@/components";
 import Image from "next/image";
 import saudiamap from '@/public/لقطة شاشة 2025-04-16 052920.png'
 
@@ -18,7 +18,7 @@ export default function Home() {
     <Numsec />
 
 
-    <Whatsicon />
+   
     </>
   );
 }
