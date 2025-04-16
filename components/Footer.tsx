@@ -14,7 +14,7 @@ const Footer = () => {
 
 
         <div className="flex flex-col w-full bg-white md:pt-0 pt-10">
-            <h1 className='text-2xl text-end font-bold font-sans text-[#005053]'>
+            <h1 className='text-2xl text-end font-bold font-sans text-[#d48600]'>
                 تابعنا
             </h1>
             <div className="flex justify-end items-center mt-3">
@@ -33,7 +33,7 @@ const Footer = () => {
 
 
         <div className="flex flex-col justify-start items-end w-full bg-white md:pt-0 pt-10">
-            <h1 className='text-2xl text-end font-bold font-sans text-[#005053]'>
+            <h1 className='text-2xl text-end font-bold font-sans text-[#d48600]'>
                 روابط سريعة
             </h1>
             <ul className='flex justify-end items-center'>
@@ -55,17 +55,17 @@ const Footer = () => {
 
 
         <div className="flex flex-col w-full bg-white justify-start items-end  md:pt-0 py-10">
-            <h1 className='text-md text-end font-sans w-3/4 text-[#005053]'>
-            Prince Abdul mohsen Rd 8781
-            Madinah, Ar Rawabi dist 42382
+            <h1 className='text-md text-end font-sans w-3/4 text-[#d48600]'>
+            Prince Muqrin Ibn Abdulaziz Rd.
+            Madinah,
             Saudi Arabia
             </h1>
             <h1 className='text-md text-start font-sans mt-6'>
-                054 336 7208
+                053 031 0044
             </h1>
         </div>
     </div>
-    <div className="flex w-full bg-[#005053] p-4 justify-center items-center">
+    <div className="flex w-full bg-[#d48600] p-4 justify-center items-center">
         <h1 className='text-md text-center font-sans text-white'>
             . جميع الحقوق محفوظة لمؤسسة العربة الذكية للترفيه 
         </h1>

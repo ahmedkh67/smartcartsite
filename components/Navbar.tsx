@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <>
-    <div className="flex flex-row-reverse bg-[#005053] w-full h-[70px] md:pl-8 fixed md:justify-center justify-between items-center transition-[0.4s] z-40 md:h-[110px] md:px-8 px-2">
+    <div className="flex flex-row-reverse bg-[#d48600] w-full h-[70px] md:pl-8 fixed md:justify-center justify-between items-center transition-[0.4s] z-40 md:h-[110px] md:px-8 px-2">
     
      <div className="LogoContainer w-full h-[98%] overflow-hidden flex justify-center items-center z-40">
      <Link href={'././'} className='w-full h-full' />

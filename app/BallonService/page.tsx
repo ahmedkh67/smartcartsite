@@ -13,11 +13,7 @@ const page = () => {
                 <h1 className='md:text-lg text-lg font-sans font-bold text-center text-white md:my-12 my-8  w-1/2'>
                 مبيعات البالون
                 </h1>
-                <Link href={'https://wa.me/+966543367208'}>
-                <button className='px-8 py-3 bg-[#005053] rounded-4xl md:text-lg text-md font-sans font-bold text-center text-white md:m-0 mb-14 transition-[0.3s] hover:opacity-80 cursor-pointer ' >
-                    طلب الخدمة
-    
-                </button></Link>
+                
             </div>
     
     

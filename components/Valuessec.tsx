@@ -24,7 +24,7 @@ function Valuessec () {
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 ">       
      
         <Value title={' الاستدامة '} dis={'الالتزام باستخدام تقنيات و اساليب صديقة للبيئة'} src={global} />
-        <Value title={' رضى العملاء '} dis={' تجقيق اعلى مستويات الرضى من خلال خدمات متكاملة '} src={person} />
+        <Value title={' رضا العملاء '} dis={' تحقيق اعلى مستويات الرضا من خلال خدمات متكاملة '} src={person} />
         {/*    <Value title={'الاستدامة '} dis={'الالتزام باستخدام تقنيات صديقة للبيئة'} src={global} />    */}
     </div>
 
