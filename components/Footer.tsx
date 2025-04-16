@@ -65,7 +65,7 @@ const Footer = () => {
             </h1>
         </div>
     </div>
-    <div className="flex w-full bg-[#ffcc00] p-4 justify-center items-center">
+    <div className="flex w-full bg-[#000000] p-4 justify-center items-center">
         <h1 className='text-md text-center font-sans text-white'>
             . جميع الحقوق محفوظة لمؤسسة العربة الذكية للترفيه 
         </h1>

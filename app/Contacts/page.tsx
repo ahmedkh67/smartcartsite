@@ -29,7 +29,7 @@ const Page = () => {
         </div>
     </div>
 
-    <div className="flex md:flex-row flex-col-reverse bg-[#f6ac00 ] w-full py-10 ">
+    <div className="flex md:flex-row flex-col-reverse bg-[#f6ac00] w-full py-10 ">
         <div className="flex w-full ">
             <form action="" method="post" className=' flex flex-col justify-start items-end p-4 w-full px-10 md:px-5 md:my-3 md:ml-30'>
 
