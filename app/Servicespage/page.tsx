@@ -1,7 +1,7 @@
 import { Numsec, ServiceCard } from '@/components'
 import React from 'react'
-
-
+import Image from 'next/image'
+import saudiamap from '@/public/لقطة شاشة 2025-04-16 052920.png'
 
 const page = () => {
   return (
@@ -32,7 +32,12 @@ const page = () => {
         <ServiceCard title={' مبيعات البالون '} dis={'قطارات ترفيهية مصممة للاطفال'} linko={"/BallonService"} src={'bg1'} />
         
     </div>
-
+      <div className="flex flex-col w-full justify-center items-center bg-white">
+      <h1 className='md:text-lg text-lg font-sans font-bold text-center text-black md:my-12 my-8  w-1/2 translate-y-10'>
+              فروعنا منتشرة حول المملكة
+              </h1>
+          <Image src={saudiamap} alt={""} />
+      </div>
 
     <Numsec />
 
