@@ -29,7 +29,7 @@ const page = () => {
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 ">       
     
         <ServiceCard title={' ادارة المراكز الترفيهية '} dis={' خدمات متكاملة في تصميم و ادارة المراكز '} linko={"/ManagingService"} src={'manag5'} />
-        <ServiceCard title={' مبيعات البالون '} dis={'قطارات ترفيهية مصممة للاطفال'} linko={"/BallonService"} src={'bg1'} />
+        <ServiceCard title={' مبيعات البالون '} dis={' بلالين هيليوم مميزة بشخصيات محبوبة '} linko={"/BallonService"} src={'ballon2'} />
         
     </div>
       <div className="flex flex-col w-full justify-center items-center bg-white">

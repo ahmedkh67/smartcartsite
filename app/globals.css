@@ -268,6 +268,79 @@ body {
 
 
 
+  .ballon1 {
+    background-image: url("/ballon1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon2 {
+    background-image: url("/ballon2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon3 {
+    background-image: url("/ballon3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon4 {
+    background-image: url("/ballon4.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon5 {
+    background-image: url("/ballon5.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon6 {
+    background-image: url("/ballon6.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon7 {
+    background-image: url("/ballon7.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+  .ballon8 {
+    background-image: url("/ballon8.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+  }
+
+
+
 
   .bg1 {
     background-image: url("/smartcartpng.webp");

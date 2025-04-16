@@ -18,7 +18,7 @@ const page = () => {
     
             <div className="flex bg-[#f6ac00] pt-10 px-5 md:px-10  flex-col items-center justify-center">
                 <div className="flex justify-center items-center ">
-                    <Paragraph title='' dis=' عربات دفع مريحة و عملية مصممة للأهالي لنقل اطفالهم بسهولة و امان داخل المولات , بتصاميم متميزة تضيف لمسة جمالية للمكان ' />
+                    <Paragraph title='' dis=' خدمة بيع بلالين هيليوم مميزة بشخصيات كرتونية محبوبة , نوفرها داخل المولات لاضافة اجواء فرح و مرح للاطفال و العائلات ' />
     
                 </div>
     
@@ -33,18 +33,39 @@ const page = () => {
 
 
             <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 pt-10 flex-wrap">       
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg1 "> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon1 "> 
 
                     
                 </div>
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg2"> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon2"> 
 
                     
                 </div>
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end trainimg3"> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon3"> 
 
                     
                 </div>
+                
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon4 "> 
+
+                    
+                </div>
+               
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon6"> 
+
+                    
+                </div>
+                
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon7"> 
+
+                    
+                </div>
+                
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end ballon8"> 
+
+                    
+                </div>
+                
                 
                 
             </div>
